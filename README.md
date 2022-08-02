@@ -1,8 +1,6 @@
 # api-car-test
 #### Api que possibilita cadastro e listagem de carros de uma api externa e guarda um log dos carros criados
 
-[Link para descrição do projeto](https://drive.google.com/file/d/1ELwsX-DEsE4sGxLqsDgFezogFh4iFTxM/view?usp=sharing)
-
 #### Stack
 - Java
 - Spring boot
@@ -25,3 +23,5 @@ Exemplo de body: {
 }
 - GET localhost:8080/api/logs
 
+[Link para descrição do projeto](https://drive.google.com/file/d/1ELwsX-DEsE4sGxLqsDgFezogFh4iFTxM/view?usp=sharing)
+Obs: O sistema de filas não foi implementado. Nunca utilizei, mas imagino que com um pouco mais de tempo conseguiria implementar.
